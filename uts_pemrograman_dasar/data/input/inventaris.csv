@@ -1,0 +1,9 @@
+kode,nama,kategori,jumlah,lokasi,kondisi
+BRG001,Laptop Lenovo,Elektronik,8,Laboratorium A,baik
+BRG002,Proyektor Epson,Elektronik,2,Laboratorium A,baik
+BRG003,Kabel HDMI,Aksesori,12,Gudang,baik
+BRG004,Keyboard Logitech,Aksesori,4,Laboratorium B,baik
+BRG005,Monitor Dell,Elektronik,3,Laboratorium B,rusak
+BRG006,Mouse Wireless,Aksesori,15,Gudang,baik
+BRG007,Router TP-Link,Jaringan,2,Laboratorium A,baik
+BRG008,Switch 8 Port,Jaringan,1,Laboratorium C,rusak
